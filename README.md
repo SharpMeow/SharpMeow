@@ -11,8 +11,6 @@
 
 <img src="media/emblem.jpg" width="220" alt="A black cat, one gold eye, a bowl of water behind it." />
 
-I keep small runtimes that do one job all the way through. A shop that is a room. A studio that reprints a science. A Chrome shell whose brain is a URL. A field book for two machines I actually own.
-
 ```
 what leaves the desk
 ────────────────────
