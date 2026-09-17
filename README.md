@@ -40,8 +40,8 @@ flowchart LR
 <table>
 <tr>
 <td width="50%">
-<a href="https://github.com/SharpMeow/fins-shop"><img src="media/shop.jpg" alt="Harbor shop window at dusk." /></a>
-<p><strong>Fin's</strong> — a harbor aquarium shop that doesn't end. The floor floods. The baker remembers. Year 1000 is not the end of the record. Private. BSL 1.1.</p>
+<a href="https://github.com/SharpMeow/Fins"><img src="media/shop.jpg" alt="Harbor shop window at dusk." /></a>
+<p><strong>Fin's</strong> — a harbor aquarium shop you keep. The floor floods. The baker remembers. Year 1000 is not the end of the record. Public. BSL 1.1.</p>
 </td>
 <td width="50%">
 <a href="https://github.com/SharpMeow/GENChase"><img src="media/plate.jpg" alt="A reaction-diffusion plate in indigo and copper." /></a>
