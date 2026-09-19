@@ -47,7 +47,7 @@ flowchart LR
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/SharpMeow/GENChase"><img src="media/plate.jpg" width="100%" alt="A reaction-diffusion plate in indigo and copper." /></a>
-<p><strong>GENChase.</strong> Pictures grown from real simulations, not prompts. Same seed, same plate. The hash is the recipe. You can keep the images. The source stays mine for now.</p>
+<p><strong>GENChase.</strong> Pictures grown from real simulations, not prompts. Same seed, same plate. The hash is the recipe. You can keep the images.</p>
 </td>
 </tr>
 <tr>
