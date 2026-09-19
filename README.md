@@ -11,7 +11,7 @@
 
 <img src="media/emblem.jpg" width="220" alt="A black cat, one gold eye, a bowl of water behind it." />
 
-Hey. I'm Chaos. I make small worlds that keep going after I look away — a shop, a plate, a browser agent, two machines on a desk. No accounts. No store listings. No phone-home.
+Hey. I'm Chaos. I make small worlds that keep going.
 
 ```
 what leaves the desk
