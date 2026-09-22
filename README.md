@@ -11,8 +11,6 @@
 
 <img src="media/emblem.jpg" width="220" alt="A black cat, one gold eye, a goldfish in a bowl of water behind it." />
 
-Hey. I'm Chaos. I make small worlds that keep going.
-
 ```
 what leaves the desk
 ────────────────────
