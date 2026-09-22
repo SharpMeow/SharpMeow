@@ -9,7 +9,7 @@
     /  chaos  \
 ```
 
-<img src="media/emblem.jpg" width="220" alt="A black cat, one gold eye, a bowl of water behind it." />
+<img src="media/emblem.jpg" width="220" alt="A black cat, one gold eye, a goldfish in a bowl of water behind it." />
 
 Hey. I'm Chaos. I make small worlds that keep going.
 
@@ -43,7 +43,7 @@ flowchart LR
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/SharpMeow/Fins"><img src="media/shop.jpg" width="100%" alt="Harbor shop window at dusk." /></a>
-<p><strong>Fin's.</strong> A harbor aquarium shop you actually keep. The floor floods, the baker remembers your face, and year 1000 is just another page in the book. Public. BSL 1.1.</p>
+<p><strong>Fin's.</strong> A harbor aquarium shop you actually keep. The floor floods, the baker remembers your face, and year 1000 is just another page in the book. Public. PolyForm Small Business 1.0.0.</p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/SharpMeow/GENChase"><img src="media/plate.jpg" width="100%" alt="A reaction-diffusion plate in indigo and copper." /></a>
@@ -56,7 +56,7 @@ flowchart LR
 <p><strong>PageArm.</strong> Load it unpacked once. After that the agent is just a URL. Hash changes, the browser evals. Hash stays the same, it just arms. The toolbar button is <code>P</code>.</p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/SharpMeow/music-field-manual"><img src="media/machines.jpg" width="100%" alt="A drum machine beside a black guitar." /></a>
+<img src="media/machines.jpg" width="100%" alt="A drum machine beside a black guitar." />
 <p><strong>Music Field Manual.</strong> An Akai MPC XL and a Jackson Soloist sitting on the same desk. Make a loop tonight. Learn the machines tomorrow. Hear the chord. Tick the step.</p>
 </td>
 </tr>
